@@ -1,3 +1,3 @@
-# Cliente APIRest Gestao de Frotas
+# Cliente API Rest - Sistema de Gestão de Frotas
 
-Projeto acadêmico Client-APIRest Sistema de Gestão de Frotas, utilizando as seguintes tecnologias: Vue.js com Vue Router, Axios e PrimeVue.
+Projeto acadêmico de um client API-Rest que simula um Sistema de Gestão de Frotas, desenvolvido com as seguintes tecnologias: Vuejs com Vue Router, Axios e PrimeVue.
